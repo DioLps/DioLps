@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Rodrigo Lopes Napolitano or just Dio XD! 👋 
 
-<!--
-**DioLps/DioLps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
-Here are some ideas to get you started:
+🇧🇷 Born in Sao Paolo, Brazil <br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on 👨‍💻
+
+🔭 An angular cms project and a trader bot for hobbie.
+
+
+### What I'm learning now 📖
+
+🌱 Python, blockchain, neuroscience and japanese 🇯🇵
+
+
+### Find me elsewhere 🌎
+
+🐦 [Twitter](https://twitter.com/DioLps) <br>
+📸 [Instagram](https://www.instagram.com/dio.lopes/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-napolitano-dio-8458b0aa/) <br>
