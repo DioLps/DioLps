@@ -2,7 +2,7 @@
 
 I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
-🇧🇷 Born in Sao Paolo, Brazil <br> 
+🇧🇷 Born in Sao Paulo, Brazil <br> 
 
 ### What I'm working on 👨‍💻
 
