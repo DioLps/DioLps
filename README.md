@@ -4,8 +4,8 @@ I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
 🇧🇷 Born in Sao Paulo, Brazil <br> 
 
-<a href="https://github.com/DioLps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DioLps&show_icons=true&theme=dracula" />
+<a href="https://github.com/diolps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diolps&show_icons=true&theme=dracula" />
 </a>
 
 ### What I'm working on 👨‍💻
