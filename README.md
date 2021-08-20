@@ -1,12 +1,12 @@
 ### Hey, I'm Rodrigo Lopes Napolitano or just Dio XD!  <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DioLps&show_icons=true&theme=dracula" />
-</a>
-
 I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
 🇧🇷 Born in Sao Paulo, Brazil <br> 
+
+<a href="https://github.com/DioLps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DioLps&show_icons=true&theme=dracula" />
+</a>
 
 ### What I'm working on 👨‍💻
 
