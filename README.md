@@ -1,4 +1,4 @@
-### Hey, I'm Rodrigo Lopes Napolitano or just Dio XD!  <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+## Hey, I'm Rodrigo Lopes Napolitano or just Dio XD!  <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
@@ -44,7 +44,7 @@ I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 
-## Version Control 🔄
+### Version Control 🔄
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
