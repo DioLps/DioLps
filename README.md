@@ -1,4 +1,9 @@
-### Hey, I'm Rodrigo Lopes Napolitano or just Dio XD! 👋 
+### Hey, I'm Rodrigo Lopes Napolitano or just Dio XD! 👋 Cancel changes
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DioLps&repo=github-readme-stats" />
+</a>
+
 
 I work as a Frontend Enginner at Sennit Combining Efforts from Brazil.
 
