@@ -14,7 +14,7 @@ I work as a Frontend Enginner at Appnovation (as a Pfizer associate) in Brazil.
 
 ### What I'm working on 👨‍💻
 
-🔭 An angular cms project and a trader bot for hobbie.
+🔭 An Unity's Adventure game for hobbie.
 
 
 ### What I'm learning now 📖
