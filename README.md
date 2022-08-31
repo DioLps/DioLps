@@ -19,7 +19,7 @@ I work as a Frontend Enginner at Appnovation (as a Pfizer associate) in Brazil.
 
 ### What I'm learning now 📖
 
-🌱 Python, blockchain, neuroscience and japanese 🇯🇵
+🌱 Game development and japanese 🇯🇵
 
 
 ### Here is some tecnologies that i already worked with 💻
