@@ -1,6 +1,6 @@
 ## Hey, I'm Rodrigo Lopes Napolitano or just Dio XD!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-I work as a Frontend Enginner at Appnovation in Brazil.
+I work as a Senior Frontend / Mobile Enginner at Appnovation in Brazil.
 
 🇧🇷 Born in Sao Paulo, Brazil <br> 
 
@@ -42,6 +42,7 @@ I work as a Frontend Enginner at Appnovation in Brazil.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
 ### Version Control 🔄
