@@ -56,5 +56,4 @@ I work as a Senior Frontend / Mobile Enginner at Appnovation in Brazil.
 ### Find me elsewhere 🌎
 
 🐦 [Twitter](https://twitter.com/DioLps) <br>
-📸 [Instagram](https://www.instagram.com/dio.lopes/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-napolitano-dio-8458b0aa/) <br>
+💼 [LinkedIn]([https://www.linkedin.com/in/rodrigo-lopes-napolitano-dio-8458b0aa/](https://www.linkedin.com/in/rodrigo-lopes-napolitano-8458b0aa/)https://www.linkedin.com/in/rodrigo-lopes-napolitano-8458b0aa/) <br>
