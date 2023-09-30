@@ -1,4 +1,4 @@
-## Hey, I'm Rodrigo Lopes Napolitano or just Dio XD!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Hey, I'm Rodrigo L. Napolitano or just Dio XD!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 I work as a Senior Frontend / Mobile Enginner at Rakuten in Japan.
 
@@ -52,8 +52,3 @@ I work as a Senior Frontend / Mobile Enginner at Rakuten in Japan.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-### Find me elsewhere 🌎
-
-🐦 [Twitter](https://twitter.com/DioLps) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-napolitano-8458b0aa/) <br>
