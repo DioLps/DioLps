@@ -14,7 +14,7 @@ I work as a Senior Frontend / Mobile Enginner in Japan.
 
 ### What I'm working on 👨‍💻
 
-🔭 A compiler for my custom programming language called huelang with c++.
+🔭 A payment app integration based on webview and a custom layer of communication for IOS and Android.
 
 
 ### What I'm learning now 📖
