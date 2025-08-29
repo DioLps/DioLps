@@ -14,12 +14,12 @@ I work as a Senior Frontend / Mobile Enginner in Japan.
 
 ### What I'm working on 👨‍💻
 
-🔭 A payment app integration based on webview and a custom layer of communication for IOS and Android.
+🔭 A major cashless payment app, which needs to be integrated via webview and use a custom layer of communication for IOS and Android.
 
 
 ### What I'm learning now 📖
 
-🌱 Game development and japanese 🇯🇵
+🌱 Math and japanese 🇯🇵
 
 
 ### Here is some tecnologies that i already worked with 💻
