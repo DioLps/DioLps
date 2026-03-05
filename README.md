@@ -5,7 +5,7 @@ I work as a Senior Frontend / Mobile Enginner in Japan 🇯🇵.
 🇧🇷 Born in Sao Paulo, Brazil <br> 
 
 <a href="https://github.com/diolps" >
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DioLps?cardType=level-alternate&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+    <img  alt="DioLps's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DioLps?cardType=level-alternate&fontFamily=JetBrains%20Mono&preferLogin=false" />
 </a>
 
 ### What I'm working on 👨‍💻
