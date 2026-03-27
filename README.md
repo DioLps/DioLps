@@ -5,7 +5,7 @@ I work as a Senior Software Enginner in Japan 🇯🇵. Mostly working on Fronte
 🇧🇷 Born in Sao Paulo, Brazil <br> 
 
 <a href="https://github.com/diolps" >
-    <img  alt="DioLps's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DioLps?cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false" />
+    <img  alt="DioLps's GitHub Stats" src="/loading.gif" />
 </a>
 
 
