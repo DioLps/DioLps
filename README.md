@@ -1,6 +1,6 @@
 ## Hey, I'm Rodrigo L. Napolitano or just Dio XD!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-I work as a Senior Frontend / Mobile Enginner in Japan 🇯🇵.
+I work as a Senior Software Enginner in Japan 🇯🇵. Mostly working on Frontend / Mobile development.
 
 🇧🇷 Born in Sao Paulo, Brazil <br> 
 
@@ -15,7 +15,7 @@ I work as a Senior Frontend / Mobile Enginner in Japan 🇯🇵.
 
 ### What I'm learning now 📖
 
-🌱 Math and japanese 🇯🇵
+🌱 Math, system development and Japanese language 🇯🇵
 
 
 ### Here is some tecnologies that i already worked with 💻
